@@ -14,11 +14,10 @@ import numpy as np
 # After its done place ping.txt in same folder as main.py
 
 
-
 def main():
-    fileForOpening = "Ping-to-Graph\\ping.txt"
-    bigGraph = "Ping-to-Graph\\Big-ping-graph.pdf"
-    smallGraph = "Ping-to-Graph\\Small-ping-graph.pdf"
+    fileForOpening = "ping.txt"
+    bigGraph = "Big-ping-graph.pdf"
+    smallGraph = "Small-ping-graph.pdf"
 
     convertedPingData, infoAboutServer = loadData(fileForOpening)
 
