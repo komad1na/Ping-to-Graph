@@ -19,3 +19,8 @@ Command to run in cmd
 After its done place ping.txt in same folder as main.py
 
 Just run *main.py* and two graphs will be created 
+
+
+Requierments: 
+```numpy==1.21.1```
+```matplotlib==3.4.2```
