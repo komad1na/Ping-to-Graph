@@ -1,4 +1,4 @@
-# Ping-to-Graph
+# :chart_with_downwards_trend: Ping-to-Graph :chart_with_upwards_trend:
 
 Python script that opens output file from ping tool from windows
 
