@@ -24,3 +24,6 @@ Just run *main.py* and two graphs will be created
 Requierments: 
 ```numpy==1.21.1```
 ```matplotlib==3.4.2```
+
+
+![Example](https://i.ibb.co/BtXfC0w/Screenshot-2021-08-06-082521.jpg)
