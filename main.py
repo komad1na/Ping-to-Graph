@@ -186,7 +186,7 @@ def drawBigGraph(xAxisData, yAxisData, infoAboutServer, lowPingValues, bigGraph)
     print("Big graph is saved in: " + bigGraph)
     # plt.show() # for debug purpose
     # Opening saved graph file in default pdf viewer
-    subprocess.Popen([bigGraph], shell=True)
+    #subprocess.Popen([bigGraph], shell=True)
 
 
 # Drawing small graph with low ping values
@@ -242,7 +242,7 @@ def drawSmallGraph(xAxisData, yAxisData, infoAboutServer, lowPingValues, smallGr
     print("Small graph is saved in: " + smallGraph)
     # plt.show() # for debug purpose
     # Opening saved graph file in default pdf viewer
-    subprocess.Popen([smallGraph], shell=True)
+    #subprocess.Popen([smallGraph], shell=True)
 
 
 if __name__ == "__main__":
