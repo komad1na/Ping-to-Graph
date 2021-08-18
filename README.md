@@ -1,5 +1,8 @@
 # :chart_with_downwards_trend: Ping-to-Graph :chart_with_upwards_trend:
 
+![TravisCI](https://travis-ci.com/komad1na/Ping-to-Graph.svg?branch=main
+)
+
 Python script that opens output file from ping tool from windows
 
 After data is loaded graphs are created and drawn 
