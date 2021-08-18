@@ -61,7 +61,7 @@ def main():
     else:
         print('\nInput file is either empty or it has wrong data.')
 
-    input("Press Enter to continue...")
+    #input("Press Enter to continue...")
 
 
 # Returns percentage
